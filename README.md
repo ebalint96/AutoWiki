@@ -11,6 +11,9 @@ The autoencoder consists of 8 dense layers (4 for the encoder, 4 for the decoder
 ## Results
 I trained the network on 10,000 examples, then tested on additional 5,000 and plotted them in a [nice interactive graph](http://people.inf.elte.hu/ebalint96/wiki/wiki.html).
 
+![](https://github.com/ebalint96/AutoWiki/raw/master/result.png)
+
+
 
 
 
