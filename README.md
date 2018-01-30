@@ -9,6 +9,8 @@ Exported each article into separate files, then extracted features using the bag
 The autoencoder consists of 8 dense layers (4 for the encoder, 4 for the decoder). The output of the encoder is a 2-dimensoinal vector, so it's easy to visualize.
 
 ## Results
-I trained the network on 10,000 examples, then tested on additional 5,000 and plotted them in a nice interactive graph.
+I trained the network on 10,000 examples, then tested on additional 5,000 and plotted them in a [nice interactive graph](http://people.inf.elte.hu/ebalint96/wiki/wiki.html).
+
+
 
 
