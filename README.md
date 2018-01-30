@@ -13,7 +13,7 @@ I trained the network on 10,000 examples, then tested on additional 5,000 and pl
 
 ![](https://github.com/ebalint96/AutoWiki/raw/master/result.png)
 
-
+As you can see, it separated some main topics, such as: historical figures, celebrities, games ranging from tabletop games to video games, instruments, Microsoft produts, bands, natural sciences, geographical locations and many more.
 
 
 
